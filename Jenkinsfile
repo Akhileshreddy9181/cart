@@ -1,4 +1,4 @@
 @Library('roboshop') _
 
-env.app_lang = "maven"
+env.app_lang = "nodejs"
 ci ()
